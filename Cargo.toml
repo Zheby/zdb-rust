@@ -6,6 +6,10 @@ authors = ["ZhenYi <434836402@qq.com>"]
 license = "MIT"
 keywords = ["zdb","bind"]
 description = "Zdb for rust binding"
+homepage = "https://github.com/Zheby/zdb-rust"
+readme = "README.md"
+documentation = "https://github.com/Zheby/zdb-rust"
+rust-version = "1.71.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
